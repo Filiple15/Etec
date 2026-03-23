@@ -1,0 +1,63 @@
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.FrmPrincipal.resources
+C:\Users\aluno\Desktop\DS-Andre-2026\Projeto\Projeto\obj\x86\Debug\Projeto.FrmLogin.resources
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmLogin.resources
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmPrincipal.resources
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmGangorra.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmCalculadora.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmGangorra.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmLogin.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmPrincipal.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.FrmRadio.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\2026\DS-Andre-2026\Turma A\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmCalculadora.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmGangorra.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmLogin.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmPagamentos.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmPrincipal.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.FrmRadio.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\DS-joao\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno\Desktop\DS-joao\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmCalculadora.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmCheckBox.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmGangorra.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmLogin.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmPagamentos.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmPrincipal.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.FrmRadio.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\DS-joao\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
