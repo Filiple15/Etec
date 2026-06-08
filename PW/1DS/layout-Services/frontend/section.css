@@ -1,0 +1,243 @@
+:root {
+    --letra: rgb(255, 252, 252);
+    --colorFontBaixo: rgb(231, 231, 231);
+    --corespricipais: rgb(153, 87, 87);
+    
+  }
+
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.default {
+    display: flex;
+    width: 100vw;
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.default.dark {
+    background-color: black;
+}
+
+.default.light {
+    background-color: var(--colorFontBaixo);
+}
+
+.flex-col {
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.default .section-title {
+    font-size: 24px;
+    color: var(--letra);
+}
+
+.default .section-desc {
+    font-size: 12px;
+    color: var(--letra);
+}
+
+.default .section-title,
+.default .section-desc{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600px;
+    margin-bottom: 16px;
+}
+
+.section-body {
+    width: 1140px;
+    margin: auto;
+}
+
+.section-services {
+    display: flex;
+}
+
+.item-service {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    border-right: 1px solid #383838;
+    padding: 16px;
+}
+
+.item-service h4 {
+    margin-top: 16px;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: white;
+}
+
+.item-service p {
+    margin-top: 16px;
+    font-size: 13px;
+    color: aliceblue;
+    line-height: 24px;
+}
+
+.item-service:first-child {
+    border-left: 1px solid #383838;
+}
+
+/* Estilizar o contêiner de projetos para organizar filtros e fotos */
+.section-projects {
+    /* Usar flexbox para alinhar o conteúdo verticalmente e centralizá-lo */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+ 
+    
+}
+ 
+/* Estilizar o contêiner de filtros para aparência e layout */
+.section-projects-filters {
+    /* Adicionar borda, cor de fundo, preenchimento e cantos arredondados */
+    border: 2px solid #7e7e7e;
+    border-radius: 30px;
+    background-color: #ededed;
+    padding: 0px 20px;
+    
+}
+ 
+/* Remover estilos padrão de lista para lista de filtros e itens */
+.section-projects-filters ul,
+.section-projects-filters li {
+    /* Remover marcadores de lista */
+    list-style: none;
+}
+ 
+/* Estilizar itens de filtro individuais para exibição em linha e interação */
+.section-projects-filters li {
+    /* Exibir como inline-block, adicionar preenchimento, tornar texto maiúsculo e definir cursor */
+    /* Adicionar borda para separação entre itens */
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-left: 1px solid #7e7e7e;
+    border-bottom: 5px solid #ededed;
+}
+ 
+/* Remover borda à esquerda do primeiro item de filtro */
+.section-projects-filters li:first-child {
+    /* Remover borda à esquerda */
+    border-left: 0;
+}
+ 
+/* Estilizar itens de filtro ao passar o mouse para feedback visual */
+.section-projects-filters li:hover {
+    /* Alterar borda ou fundo para indicar hover */
+    border-bottom: 5px solid var(--corespricipais);
+}
+ 
+/* Estilizar o item de filtro ativo */
+.section-projects-filters li.active {
+    /* Destacar o filtro ativo com uma borda ou mudança de cor */
+    background-color: var(--corespricipais);
+    
+}
+ 
+/* Estilizar o contêiner da grade de fotos para layout */
+.section-projects-photos {
+    /* Definir largura, usar flexbox para quebra de linha e centralizar itens */
+    /* Adicionar margem para espaçamento */
+    width: 100%;
+    max-width: 1140px;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+ 
+/* Estilizar contêineres de fotos individuais para tamanho */
+.section-projects-photo {
+    /* Definir uma largura fixa para cada item de foto */
+    width: 280px;
+   
+    
+}
+ 
+/* Estilizar a área da foto para tamanho e espaçamento */
+.section-projects-photoarea {
+    /* Definir largura e altura, adicionar margem para espaçamento */
+    width: 260px;
+    height: 160px;
+    margin: 10px;
+}
+ 
+/* Garantir que as imagens se ajustem à área da foto */
+.section-projects-photoarea img {
+    /* Fazer as imagens preencherem o contêiner mantendo a proporção */
+    width: inherit;
+    height: inherit;
+}
+ 
+/* Estilizar a sobreposição de informações da foto para efeito de hover */
+.section-projects-photoinfo {
+    /* Posicionar absolutamente, definir tamanho para corresponder à foto e ocultar por padrão */
+    /* Adicionar cor de fundo com transparência */
+    /* Usar flexbox para centralizar o conteúdo verticalmente e horizontalmente */
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    display: none;
+    background-color: rgba(0, 0, 0 , 0.7);
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex-direction: column;
+}
+ 
+/* Mostrar a sobreposição de informações ao passar o mouse sobre a área da foto */
+.section-projects-photoarea:hover .section-projects-photoinfo {
+    /* Exibir a sobreposição ao passar o mouse */
+    display: flex;
+}
+ 
+/* Estilizar o título na sobreposição de informações da foto */
+.section-projects-photoinfo h5 {
+    /* Definir tamanho da fonte, peso e tornar o texto maiúsculo */
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600px;
+}
+ 
+/* Estilizar a descrição na sobreposição de informações da foto */
+.section-projects-photoinfo p {
+    /* Definir tamanho da fonte e adicionar margem para espaçamento */
+    margin-top: 10px;
+}
+ 
+/* Estilizar o botão 'mais projetos' */
+.button {
+    /* Exibir como inline-block, definir cor de fundo, cor do texto e preenchimento */
+    /* Adicionar cantos arredondados, texto maiúsculo e estilos de fonte */
+    display: flex;
+    background-color: var(--corespricipais);
+    color: white;
+    padding: 18px 50px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;text-decoration: none;
+    margin-top: 28px;
+
+}
+ 
+/* Estilizar o botão ao passar o mouse para interatividade */
+.button:hover {
+    /* Alterar cor de fundo ou texto para efeito de hover */
+    background-color: var(--corespricipais);
+}
