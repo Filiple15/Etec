@@ -1,0 +1,106 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Variáveis */
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --primary: #3b82f6;
+  --primary-hover: #2563eb;
+  --text: #e2e8f0;
+  --text-light: #94a3b8;
+  --border: #334155;
+  --radius: 12px;
+}
+
+/* Body */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* Header */
+header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px 40px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+}
+
+header img {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  border: 2px solid var(--primary);
+}
+
+header h1 {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+/* Form container */
+form {
+  max-width: 650px;
+  margin: 50px auto;
+  padding: 30px;
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+/* Seções */
+form p {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: var(--text-light);
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  transition: 0.3s;
+}
+
+/* Placeholder */
+input::placeholder {
+  color: var(--text-light);
+}
+
+/* Focus */
+input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 8px rgba(59,130,246,0.5);
+}
+
+/* Botão */
+input[type="button"] {
+  margin-top: 20px;
+  background: var(--primary);
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover botão */
+input[type="button"]:hover {
+  background: var(--primary-hover);
+  transform: translateY(-2px);
+}

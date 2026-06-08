@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viagem</title>
+
+    <!-- Links -->
+     <link rel="stylesheet" href="./CSS/style.css">
+</head>
+<body>
+    <header>
+            <img src="./img/bandeira.jpg" alt="logo">
+            <h1>Viagem</h1>
+    </header>
+        <form action="./PHP/index.php" method="get">
+            <input type="text" name="origem" placeholder="Cidade de origem">
+            <input type="text" name="destino" placeholder="Cidade de destino">
+            <input type="text" name="distancia" placeholder="Distância (km)">
+
+            <input type="number" name="passageiros" placeholder="0-12">
+
+            <input type="text" name="consumo" placeholder="Consumo do veículo (km por litro)">
+            <input type="text" name="preco" placeholder="Preço do combustível (R$ por litro)">
+
+            <input type="text" name="margem" placeholder="Margem de lucro (%)">
+            <input type="submit" value="Calcular">
+        </form>
+</body>
+</html>
